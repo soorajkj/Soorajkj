@@ -6,9 +6,9 @@
 
 Student | Programmer | Mobile FPS Gamer | Tech Enthusiast
 
-🎯 I’m currently learning Web Developement 🕸️
-2021 Goals: Focus on projects 📑
-Looking to collaborate with other developers 🌐
+- I’m currently learning Web Developement 🕸️
+- 2021 Goals: Focus on projects 📑
+- Looking to collaborate with other developers 🌐
 
 ### Connect with me:
 
