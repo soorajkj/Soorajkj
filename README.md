@@ -8,7 +8,7 @@ Student | Programmer | Mobile FPS Gamer | Tech Enthusiast
 - Focusing on projects 📑
 - Looking to collaborate with other developers 🌐
 
-<br /><br />
+<br />
 
 ---
 
