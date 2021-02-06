@@ -1,12 +1,14 @@
-## Hi my friends, I'm Sooraj
+## Hey my friends, I'm Sooraj
 
 ---
 
 ### I'm a student, Developer!!
 
-- 🎯 I’m currently learning Web Developement 🕸️
-- 🥅 2021 Goals: Working more on projects
-- ⚡ Fun fact: I love football ⚽
+Student | Programmer | Mobile FPS Gamer | Tech Enthusiast
+
+🎯 I’m currently learning Web Developement 🕸️
+2021 Goals: Focus on projects 📑
+Looking to collaborate with other developers 🌐
 
 ### Connect with me:
 
