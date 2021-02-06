@@ -1,6 +1,4 @@
-## Hey my friends, I'm [Sooraj Janardhanan]
-
----
+## Hey my friends, I'm Sooraj Janardhanan
 
 ### I'm a passionate self taught programmer from kerala!!
 
