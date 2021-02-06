@@ -14,6 +14,7 @@ Student | Programmer | Mobile FPS Gamer | Tech Enthusiast
 
 [<img align="left" alt="sooraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sooraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="sooraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -35,3 +36,4 @@ Student | Programmer | Mobile FPS Gamer | Tech Enthusiast
 
 [instagram]: https://www.instagram.com/mr.losblancos
 [linkedin]: https://www.linkedin.com/in/soorajkj
+[twitter]: https://twitter.com/soorajkj7
