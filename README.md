@@ -1,8 +1,8 @@
-## Hey my friends, I'm Sooraj
+## Hey my friends, I'm [Sooraj Janardhanan]
 
 ---
 
-### I'm a student, Developer!!
+### I'm a passionate self taught programmer from kerala!!
 
 Student | Programmer | Mobile FPS Gamer | Tech Enthusiast
 
