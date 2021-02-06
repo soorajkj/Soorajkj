@@ -28,6 +28,8 @@
 
 <br />
 
+---
+
 ### GitHub Stats
 
 <img align="left" alt="Sooraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=soorajkj&show_icons=true&hide_border=true" />
