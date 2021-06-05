@@ -2,7 +2,7 @@
 
 ### I'm a passionate self taught programmer from kerala!!
 
-Student | Programmer | Mobile FPS Gamer | Tech Enthusiast
+Student | Programmer | Mobile FPS Gamer
 
 - I’m currently learning Web Developement 🕸️
 - Focusing on projects 📑
